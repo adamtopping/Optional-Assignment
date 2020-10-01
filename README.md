@@ -1,9 +1,11 @@
 ## Guide
+- [Use of File](#Use-of-File)
 - [About Me](#About-Me)
 - [Involvement at Iowa](#Involvement-at-Iowa)
 - [LinkedIn Profile](#LinkedIn-Profile)
+## Use of File
+*This file provides of brief description of myself, as well as how to connect with me. I would love to talk with anyone who wants to learn more about me or organizations I am involved in* 
 ## About Me
-![A picture of me](AdamTopping_ProfessionalPic)
 I am a junior at the University of Iowa studying Finance and Business Analytics. I am originally from West Des Moines, IA.
 ## Involvement at Iowa
 1. **Delta Sigma Pi - Business Fraternity** 
