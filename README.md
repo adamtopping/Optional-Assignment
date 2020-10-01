@@ -3,7 +3,7 @@
 - [Involvement at Iowa](#Involvement-at-Iowa)
 - [LinkedIn Profile](#LinkedIn-Profile)
 ## About Me
-![A picture of me](AdamTopping_ProfessionalPic.png)
+![A picture of me](AdamTopping_ProfessionalPic)
 I am a junior at the University of Iowa studying Finance and Business Analytics. I am originally from West Des Moines, IA.
 ## Involvement at Iowa
 1. **Delta Sigma Pi - Business Fraternity** 
